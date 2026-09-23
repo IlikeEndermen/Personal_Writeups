@@ -10,7 +10,7 @@ OSINT/forensics challenges.
 | [Tribble with my skin](Tribble_with_my_skin_writeup.pdf) | OSINT / Forensics | SunshineCTF 2025 | Identified a Minecraft account's UUID and pulled skin history from a third-party archive to recover a flag hidden in the texture. |
 | [Guessy](Guessy_writeup.pdf) | Crypto | FortID 2025 | Extracted a secret bit-by-bit from a Paillier homomorphic-encryption oracle using a zero-knowledge, base-3 trit-extraction attack. |
 | [Intro Rev](REV_Intro_writeup.pdf) | FortID 2025 | [competition — confirm] | Located and decoded an encrypted string embedded in a binary using Binary Ninja. |
-| [OSINT Exam](OSINT_Exam_writeup.pdf) | OSINT | GreyCat 2025? | Six-part OSINT exam identifying locations from photos; 8th solve overall. |
+| [OSINT Exam](OSINT_Exam_writeup.pdf) | OSINT | GreyCat 2025 | Six-part OSINT exam identifying locations from photos; 8th solve overall. |
 | [Misc A & B](Misc_A_and_B_writeup.pdf) | Misc / Reversing | Google CTF 2025 | Exploited a camera-boundary bug in a Rust-based Sega-Genesis-style game to sequence-break past an obstacle. **Co-authored with Dimitris Tsiplakis** — see below. |
 
 ## A note on Misc A & B
